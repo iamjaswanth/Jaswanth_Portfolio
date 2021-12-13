@@ -13,6 +13,7 @@ written python code to predict salary using multivariate linear regression in py
 
 #
 [Exploratory Data Analysis On Zomato](https://github.com/iamjaswanth/Zomato-Exploratory-Data-Analysis/blob/main/Zomato.ipynb)
+
 Loading the dataset: Load the data and import the libraries.Data Cleaning,Dropping duplicates,Cleaning individual columns,Data Visualization:Using plots to find relations between the features.Finding the best restaurants based on nuber of votes and Location 
 
 
