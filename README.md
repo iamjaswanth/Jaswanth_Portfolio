@@ -1,4 +1,4 @@
-# Jaswanth_Portfolio
+# Jaswanth Portfolio
 Data Science Projects 
 
 # 
@@ -15,6 +15,14 @@ written python code to predict salary using multivariate linear regression in py
 [Exploratory Data Analysis On Zomato](https://github.com/iamjaswanth/Zomato-Exploratory-Data-Analysis/blob/main/Zomato.ipynb)
 
 Loading the dataset: Load the data and import the libraries.Data Cleaning,Dropping duplicates,Cleaning individual columns,Data Visualization:Using plots to find relations between the features.Finding the best restaurants based on nuber of votes and Location 
+
+#
+[Finding High Momentum Stocks from NSE MIDSMALLCAP400 INDEX](https://github.com/iamjaswanth/Momentum-Stocks)
+
+Downloading stocks data using yfinance 
+Calculating Relative Strenght of the INDEX and the indiidual Stocks
+Calculating 50,100,200 Days Moving Averages and Filtering the Stocks which were trading within 30% range from 52week High using pandas
+Filtering the stocks based on Mark Minervini template 
 
 
 #
