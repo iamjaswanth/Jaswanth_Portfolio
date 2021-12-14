@@ -25,7 +25,8 @@ Calculating Relative Strenght of the INDEX and the indiidual Stocks
 Calculating 50,100,200 Days Moving Averages and Filtering the Stocks which were trading within 30% range from 52week High using pandas
 Filtering the stocks based on Mark Minervini template 
 
-#[IPL Exploratory Data Analysis](https://github.com/iamjaswanth/IPL_-EDA/blob/main/IPL_EDA.ipynb)
+#
+[IPL Exploratory Data Analysis](https://github.com/iamjaswanth/IPL_-EDA/blob/main/IPL_EDA.ipynb)
 
 #
 [Data Science Regression Project: Predicting Home Prices in Banglore](https://github.com/iamjaswanth/Data-Science-Regression-Project-Predicting-Home-Prices-in-Banglore/blob/main/Benguluru_RealEstate.ipynb)
