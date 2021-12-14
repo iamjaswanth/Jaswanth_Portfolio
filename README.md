@@ -28,6 +28,9 @@ Filtering the stocks based on Mark Minervini template
 #
 [IPL Exploratory Data Analysis](https://github.com/iamjaswanth/IPL_-EDA/blob/main/IPL_EDA.ipynb)
 
+Did Exploratory Data Analysis on IPL Data Set from 2008 - 2020 time period 
+Used frameworks Pandas,Numpy,Matplotlid
+
 #
 [Data Science Regression Project: Predicting Home Prices in Banglore](https://github.com/iamjaswanth/Data-Science-Regression-Project-Predicting-Home-Prices-in-Banglore/blob/main/Benguluru_RealEstate.ipynb)
 
