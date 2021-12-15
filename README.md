@@ -12,6 +12,11 @@ A Simple Linear Regression Example to Predict Canada Per Capita Income
 written python code to predict salary using multivariate linear regression in python (using sklearn linear_model). Salaries are dependent on 3 independent variables: experience, test score and interview score. Pandas dataframe is used to fill missing values first and converted string number to Integer number using w2n then used that dataset to train a multivariate regression model.
 
 #
+[logistic regression](https://github.com/iamjaswanth/HR-EDA-Logistic-Regression)
+
+HR EDA and Logistic Regression to predict employee retention 
+
+#
 [Exploratory Data Analysis On Zomato](https://github.com/iamjaswanth/Zomato-Exploratory-Data-Analysis/blob/main/Zomato.ipynb)
 
 Loading the dataset: Load the data and import the libraries.Data Cleaning,Dropping duplicates,Cleaning individual columns,Data Visualization:Using plots to find relations between the features.Finding the best restaurants based on nuber of votes and Location 
