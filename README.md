@@ -37,6 +37,9 @@ Did Exploratory Data Analysis on IPL Data Set from 2008 - 2020 time period
 Used frameworks Pandas,Numpy,Matplotlid
 
 #
+[Heart Disease EDA and Predection](https://github.com/iamjaswanth/HeartDisease-EDA-and-Predection)
+
+#
 [Data Science Regression Project: Predicting Home Prices in Banglore](https://github.com/iamjaswanth/Data-Science-Regression-Project-Predicting-Home-Prices-in-Banglore/blob/main/Benguluru_RealEstate.ipynb)
 
 Used Numpy and Pandas for data cleaning
