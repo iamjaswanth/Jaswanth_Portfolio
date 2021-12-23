@@ -25,7 +25,7 @@ Loading the dataset: Load the data and import the libraries.Data Cleaning,Droppi
 #
 [World CO2 Emissions](https://public.tableau.com/app/profile/jaswanth4860/viz/WorldCO2Emissons_16402416727080/Dashboard1?publish=yes)
 
-A tableau dashboard projet build on CO2 Emissions. 
+A tableau dashboard projet build on World CO2 Emissions. 
 
 #
 
