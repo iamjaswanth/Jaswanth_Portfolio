@@ -21,6 +21,12 @@ HR EDA and Logistic Regression to predict employee retention
 
 Loading the dataset: Load the data and import the libraries.Data Cleaning,Dropping duplicates,Cleaning individual columns,Data Visualization:Using plots to find relations between the features.Finding the best restaurants based on nuber of votes and Location 
 
+
+#
+[World CO2 Emissions](https://public.tableau.com/app/profile/jaswanth4860/viz/WorldCO2Emissons_16402416727080/Dashboard1?publish=yes)
+
+A tableau dashboard projet build on CO2 Emissions. 
+
 #
 
 [Quant Finance Finding High Momentum Stocks from NSE MIDSMALLCAP400 INDEX](https://github.com/iamjaswanth/Momentum-Stocks)
